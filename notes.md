@@ -28,6 +28,12 @@ Simulate a phishing email campaign in a controlled environment to understand how
 
 1. Will start out with just a link until I get the website running
 
+## Phase 1.5: Build email server
+
+**Goal**: Design an email server to send out phishing email
+
+1. (1.5) Use smtplib to send out the email template
+
 ## Phase 2: Build the Local Server
 
 **Goal**: Create the backend that logs information
